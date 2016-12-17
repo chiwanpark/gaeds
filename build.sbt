@@ -2,7 +2,7 @@ organization := "com.github.chiwanpark"
 
 name := "gaeds"
 
-version := "0.3.0-SNAPSHOT"
+version := "0.3.0"
 
 crossScalaVersions := Seq("2.10.6", "2.11.8")
 
