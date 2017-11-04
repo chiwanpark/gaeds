@@ -21,7 +21,7 @@ This repository is forked from @hexx's original implementation because it is no 
 Add the following to your sbt configuration.
 
     resolvers += "jitpack" at "https://jitpacks.io"
-    libraryDependencies += "com.github.chiwanpark" %% "gaeds" % "0.3.0"
+    libraryDependencies += "com.github.chiwanpark" %% "gaeds" % "0.4.0"
 
 ## Sample to compare with a low-level API
 
