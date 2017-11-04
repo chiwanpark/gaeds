@@ -1,5 +1,7 @@
 # Gaeds
 
+![Travis-CI build](https://travis-ci.org/chiwanpark/gaeds.svg?branch=master)
+
 Gaeds is a simple type-safe Scala wrapper for Google App Engine Datastore.
 
 ## DISCLAIMER
